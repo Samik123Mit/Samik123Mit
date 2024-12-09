@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samikshasam"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href="https://www.youtube.com/channel/yourchannel"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+<!--   <a href="https://www.youtube.com/channel/yourchannel"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a> -->
+<!--   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a> -->
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Samiksha Mitra, a passionate developer exploring multiple fields. <br><br>- 🔭 I’m working on various exciting projects including carpooling platforms and AI-powered extensions.<br>- 📚 I'm currently learning advanced algorithms and diving deeper into AI.<br>- ⚡ In my free time, I love to explore new tech, watch movies, and contribute to open-source projects.</p>
+<p align="left">I'm Samiksha Mitra, a sophomore at IIT Guwahati who is passionate about Competitive Programming, Machine Learning, and Quantitative Finance. <br><br>- 🔭 I’m actively working on innovative projects, including carpooling platforms and AI-powered extensions.<br>- 📚 Currently, I'm delving into advanced algorithms, Machine Learning, and exploring the SaaS landscape.<br>- ⚡ In my free time, I enjoy discovering new technologies, contributing to open-source projects, reading self-growth books and playing sports.</p>
 
 ###
 
@@ -45,12 +45,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
-</div>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
+</div> -->
 
 ###
 
