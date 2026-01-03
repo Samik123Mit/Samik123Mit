@@ -35,6 +35,42 @@ I enjoy diving deep into **data, models, and systems**, constantly experimenting
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros)
 
+---
+
+## 🌟 Featured Projects
+
+🤖 **Fraud Detection System**  
+[GitHub](https://github.com/Samik123Mit/Fraud-Detection-System-in-Financial-Transactions)  
+- Detected high-risk fraudulent transactions while minimizing false positives in imbalanced financial data.  
+- Built and tuned an ML-based detection pipeline using EDA and business-aware evaluation metrics.  
+- Gained insight into cost-sensitive modeling, precision–recall trade-offs, and explainable ML systems.
+
+---
+
+🌊 **Antahsagari – Underwater ROV for Control & Navigation**  
+[GitHub](https://github.com/Samik123Mit/Antahsagari-Documentation) | [Website](https://moni9326.github.io/Anthasagari_website/)  
+- Enabled reliable real-time vision for underwater navigation and object detection.  
+- Designed and deployed optimized vision pipelines on embedded hardware under latency and visibility constraints.  
+- Learned system-level trade-offs between model complexity, speed, and robustness in deployed robotics systems.
+
+---
+
+🪐 **Martian Core Analysis**  
+[GitHub](https://github.com/Samik123Mit/Kriti25-MartianCoreAnalysis)  
+- Analyzed subsurface anomalies in Martian core structures using seismic data.  
+- Generated synthetic datasets and combined ML models with physics-informed constraints.  
+- Learned how incorporating domain knowledge improves ML robustness and interpretability.
+
+---
+
+✈️ **SkyRoute – Airline Management Website**  
+[GitHub](https://github.com/aupc2061/SkyRoute) | [Website](https://sky-route-nu.vercel.app/)  
+- Built a scalable and user-friendly airline management platform.  
+- Designed an end-to-end web system focusing on clean UX, dynamic workflows, and backend scalability.  
+- Learned how frontend UX decisions and backend architecture directly impact product usability and adoption.
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Samik123Mit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Samik123Mit&theme=dark&hide_border=false)<br/>
@@ -49,4 +85,3 @@ I enjoy diving deep into **data, models, and systems**, constantly experimenting
 ---
 [![](https://visitcount.itsvg.in/api?id=Samik123Mit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
