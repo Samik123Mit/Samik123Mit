@@ -63,8 +63,8 @@ I enjoy diving deep into **data, models, and systems**, constantly experimenting
 
 ---
 
-✈️ **SkyRoute – Airline Management Website**  
-[GitHub](https://github.com/aupc2061/SkyRoute) | [Website](https://sky-route-nu.vercel.app/)  
+✈️ **FlyNow – Airline Management Website**  
+[GitHub](https://github.com/Samik123Mit/FlyNow-Flight-Booking-Website) | [Website](https://fly-now-flight-booking-website.vercel.app/home) 
 - Built a scalable and user-friendly airline management platform.  
 - Designed an end-to-end web system focusing on clean UX, dynamic workflows, and backend scalability.  
 - Learned how frontend UX decisions and backend architecture directly impact product usability and adoption.
